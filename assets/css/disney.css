@@ -1,0 +1,20 @@
+/* bebas-neue-regular - latin */
+body{
+    background-image: url(https://fotografias.antena3.com/clipping/cmsimages01/2021/03/17/FB570D80-0BBD-4734-87A0-3160DEEF6A44/98.jpg?crop=1000,563,x0,y2&width=1900&height=1069&optimize=low&format=webply);
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:8%
+}
+
+
+.courier-font{
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 200px;
+    color: rgb(255, 255, 255);
+}
